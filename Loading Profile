@@ -1,0 +1,7 @@
+Element	Loading_Base_%	Loading_Peak_%	Loading_Optimized_%
+T1 (11/0.415 kV)	62	88	76
+Line 1 (Bus1-Bus2)	48	71	60
+Line 2 (Bus2-Bus3)	36	54	44
+Line 3 (Bus3-Bus4)	29	43	34
+Line 4 (Bus4-Bus5)	22	34	27
+Line 5 (Bus5-Bus6)	18	28	22
