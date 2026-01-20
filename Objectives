@@ -1,0 +1,9 @@
+1.Build a radial distribution feeder model in PowerFactory using realistic component parameters
+
+2.Run load flow under different loading scenarios and observe voltage and loading constraints
+
+3.Identify high-loss sections and weak buses (voltage drop locations)
+
+4.Apply improvement actions to minimize technical losses while keeping voltages within limits
+
+5.Export and document results as reports, plots, and comparison tables
