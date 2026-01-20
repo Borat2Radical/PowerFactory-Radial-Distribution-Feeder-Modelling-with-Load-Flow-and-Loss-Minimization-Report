@@ -1,0 +1,4 @@
+Modeling and Load Flow Analysis of a Radial Distribution Feeder with Loss Minimization using DIgSILENT PowerFactory.
+This repository contains the DIgSILENT PowerFactory project files, input data, and exported results for modelling a radial distribution feeder and evaluating its performance using load flow analysis. 
+The work includes feeder creation (buses, lines/cables, transformer, loads), defining study cases (base load / peak load), and implementing loss minimization strategies such as reactive power compensation, transformer tap setting, and feeder operational tuning. 
+The repository also includes exported reports (voltage profile, line loading, loss summary) and supporting documentation.
