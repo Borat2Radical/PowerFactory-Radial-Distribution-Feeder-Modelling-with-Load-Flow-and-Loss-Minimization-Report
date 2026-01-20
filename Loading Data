@@ -1,0 +1,4 @@
+Load	Base_P_kW	Base_Q_kVAr	Peak_P_kW	Peak_Q_kVAr	Optimized_P_kW	Optimized_Q_kVAr
+Load A (PQ)	120	60	165	85	165	72
+Load B (ZIP)	90	45	125	62	125	50
+Load C (Motor)	75	55	105	78	105	62
