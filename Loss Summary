@@ -1,0 +1,4 @@
+Case	P_Loss_kW	Q_Loss_kVAr	Min_V_pu	Max_Loading_%	Notes
+Base	12.4	8.1	0.9494	62	Normal load
+Peak	21.8	14.9	0.9036	88	Max demand
+Optimized	15.6	9.8	0.9614	76	Capacitor + Tap
